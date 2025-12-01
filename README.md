@@ -1,1 +1,2 @@
 # 3rd-Repo
+Individual Assignment 2 is asking the user to input the temperature in fahrenheit. it then processes the temperature in celcius by taking the temperature_celsius equation and then printing the temperature in celcius rounded to 1 decimal place. It then shows a if, elif, else statement of what the user needs to print regarding what temperature is displayed as the output. If the temperature is between 0 and 100 the program will print "water is liquid". If it is below 0 it will print "water is ice". If it is anything above 100 it will then print "Water is gas".
